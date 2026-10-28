@@ -1,2 +1,1 @@
-# ar-sembakopos
-Aplikasi kasir warung
+index.html
